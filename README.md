@@ -5,21 +5,10 @@ I'm a second-year B.Tech student specializing in Data Science at The NorthCap Un
 
 💻 Skills & Technologies
 Languages:
-  C
-  C++
-  Java
-  Python
-  SQL
+C,C++,Java,Python,SQL
   
-Interests:
-  Data Science and Machine Learning
-  Algorithm Optimization
-  Exploring cloud computing and its applications in scalable systems
-  
-📘 Projects
-  I'm currently working on a few projects where I’m applying my skills to develop efficient and scalable systems, mainly in data processing and software development. Stay tuned for updates!
+Interests: Data Science and Machine Learning, Algorithm Optimization
 
-🌱 What I'm currently learning
-  Advanced Data Structures
-  Machine Learning Algorithms
-  Cloud Platforms (AWS, Google Cloud)
+📘 Projects: I'm currently working on a few projects where I’m applying my skills to develop efficient and scalable systems, mainly in data processing and software development. Stay tuned for updates!
+
+🌱 What I'm currently learning; Advanced Data Structures, Machine Learning Algorithms, Cloud Platforms (AWS, Google Cloud)
