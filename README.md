@@ -70,7 +70,3 @@ I'm currently working on a few projects where I’m applying my skills to develo
 <a href="https://www.hackerearth.com/@nishantrajora100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@nishantrajora100" height="30" width="40" /></a>
 </p>
 
-## 👥 Visitor Count:
-<div align="center">
-  <img src="https://profile-counter.glitch.me/smolvamp/count.svg" alt="Visitor Count" />
-</div>
