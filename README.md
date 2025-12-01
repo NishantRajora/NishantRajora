@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishant Rajora</h1>
-<h3 align="center">Second-year B.Tech student specializing in Data Science at The NorthCap University</h3>
+<h3 align="center">Third-year B.Tech student specializing in Data Science at The NorthCap University</h3>
 
 ---
 
