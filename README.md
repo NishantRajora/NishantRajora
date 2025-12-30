@@ -59,8 +59,7 @@ I am actively seeking opportunities in **Data Analytics, Data Science, and Busin
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
 
-  <!-- Cloud & AI -->
-  <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40" height="40"/>
+
 </p>
 
 ---
