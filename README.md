@@ -65,24 +65,7 @@ I am actively seeking opportunities in **Data Analytics, Data Science, and Busin
 
 ---
 
-## 📘 Featured Projects
 
-- **Amazon Sales Analytics Dashboard (Tableau)**  
-  Interactive dashboard analyzing revenue, regional trends, product performance, and payment methods.
-
-- **Air Quality Index (AQI) Prediction**  
-  Machine learning model using pollutant time-series data from Indian cities.
-
-- **Coffee & Health Analytics (KNIME)**  
-  EDA and predictive modeling to analyze the impact of coffee consumption on health outcomes.
-
-- **OS Kernel Vulnerability Analysis**  
-  Analysis of CVE data (2020–2025) to identify security trends and risks.
-
-- **Automated School Bell System (IoT)**  
-  Arduino-based automated bell and door-locking system.
-
----
 
 ## 🌱 Currently Learning
 
@@ -92,13 +75,6 @@ I am actively seeking opportunities in **Data Analytics, Data Science, and Busin
 - Cloud Fundamentals (AWS, GCP)  
 - LLMs, Prompt Engineering & RAG Concepts  
 
----
-
-## 📜 Certifications
-
-- **TATA (Forage):** Data Visualization – Empowering Business Insights  
-- **AWS Academy Graduate:** Cloud Foundations  
-- **Cisco:** Getting Started with Packet Tracer  
 
 ---
 
