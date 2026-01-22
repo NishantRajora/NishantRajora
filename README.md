@@ -79,7 +79,6 @@ I am actively seeking opportunities in **Data Analytics, Data Science, and Busin
 
 - **Smart India Hackathon (SIH)**  
   - Team shortlisted at internal level  
-  - Among ~120 teams, **one of the 4 selected teams** from the college  
   - Reached the **waitlist stage**, gaining strong teamwork and problem-solving experience  
 
 - Actively participated in **data hackathons and analytics challenges**
