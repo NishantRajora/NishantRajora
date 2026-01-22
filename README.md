@@ -1,132 +1,111 @@
 <h1 align="center">Hi 👋, I'm Nishant Rajora</h1>
-<h3 align="center">B.Tech CSE (Data Science) | Aspiring Data Scientist & Software Developer</h3>
+<h3 align="center">Data Science Undergraduate | Aspiring Data Analyst / Data Scientist</h3>
 
 <p align="center">
-📍 Gurugram, Haryana, India <br/>
-🎓 The NorthCap University, Gurugram <br/>
-📧 nishantrajora100@gmail.com | 📞 +91 9811687378
-</p>
-
-<p align="center">
-<a href="https://github.com/NishantRajora" target="_blank">GitHub</a> •
-<a href="https://linkedin.com/in/nishant-rajora" target="_blank">LinkedIn</a>
+📍 Gurugram, India <br/>
+💡 Passionate about Data, Analytics & Machine Learning
 </p>
 
 ---
 
-## 🧠 Summary
+## 🚀 About Me
 
-Motivated **Data Science undergraduate** at The NorthCap University with strong foundations in **programming, algorithms, and analytical thinking**.  
-Passionate about applying **data-driven techniques and machine learning** to build efficient and scalable solutions.
+I am a **Data Science undergraduate** with a strong interest in **data analytics, visualization, and machine learning**.  
+I enjoy **working with data, exploring patterns, and turning raw information into meaningful insights** that support real-world decision-making.
 
-Actively seeking opportunities in **Data Science, Data Analytics, and Software Development** roles to contribute to organizational growth.
+I have hands-on exposure to **data analysis, BI tools, and machine learning concepts** through academic work, hackathons, and self-driven learning.
 
----
-
-## 🎓 Education
-
-- **B.Tech – Computer Science & Engineering (Data Science)**  
-  *The NorthCap University, Gurugram*  
-  **Expected Graduation:** 2027
-
-- **Class XII (CBSE)**  
-  *Sharda International School, Gurugram*  
-  **Year:** 2023
-
-- **Class X (CBSE)**  
-  *Sharda International School, Gurugram*  
-  **Year:** 2021
+I am actively seeking opportunities in **Data Analytics, Data Science, and Business Intelligence** roles.
 
 ---
 
-## 🚀 Projects
+## 💻 Skills & Expertise
 
-- **Amazon Sales 2025 – Tableau Dashboard**  
-  Analyzed revenue, product performance, regional trends, payment methods, and order status to generate business insights.
-
-- **Coffee and Health Analytics – KNIME**  
-  Built a KNIME workflow for EDA and predictive modeling on coffee consumption and health outcomes.
-
-- **Air Quality Index (AQI) Prediction**  
-  Developed a machine learning model to predict AQI using pollutant time-series data from Indian cities.
-
-- **OS Kernel Vulnerability Analysis**  
-  Analyzed CVE data (2020–2025) to identify kernel security trends, risks, and severity patterns.
-
-- **Automated Bell System (IoT)**  
-  Designed an Arduino-based automated bell and door-locking system.
+- Data Analysis & Exploratory Data Analysis (EDA)
+- Data Visualization & Dashboard Development
+- Machine Learning (Beginner–Intermediate)
+- Statistical Analysis & Interpretation
+- Algorithmic & Logical Problem Solving
+- Database Management Systems
+- Fundamentals of Cloud & AI Concepts
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Languages, Tools & Technologies
 
-### Programming Languages  
-- Python, Java, C
+<p align="left">
 
-### Data Science & BI  
-- Pandas, NumPy, Matplotlib  
-- Power BI, Tableau  
-- Exploratory Data Analysis (EDA)
+<!-- Programming -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
 
-### Machine Learning & AI  
-- Scikit-learn  
-- KNIME
+<!-- Data & ML -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
+<img src="https://matplotlib.org/_static/logo2_compressed.svg" width="40" height="40"/>
 
-### Databases  
-- MySQL, MongoDB
+<!-- BI & Analytics -->
+<img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/ms-excel.png" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/tableau-software.png" width="40" height="40"/>
 
-### Tools & Platforms  
-- Git, GitHub  
-- Jupyter Notebook  
-- VS Code, IntelliJ IDEA  
-- Arduino
+<!-- Databases -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 
-### Core Concepts  
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- File Handling  
+<!-- Tools -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
 
----
-
-## 📜 Certifications
-
-- **Data Visualization: Empowering Business Insights** – Forage (TATA)
-- **Cloud Foundations** – AWS Academy  
-- **Getting Started with Cisco Packet Tracer**
+</p>
 
 ---
 
-## 🏆 Achievements & Competitions
+## 🌱 Currently Learning
 
-- **Semi-Finalist** – Smart India Hackathon (SIH) 2025  
-- **Participant** – UIDAI Data Hackathon 2026  
-- **Participant** – i.Mobilothon 5.0 (Volkswagen Group)
-
----
-
-## 🤝 Soft Skills
-
-- Problem Solving  
-- Time Management  
-- Adaptability  
+- Advanced Machine Learning Techniques  
+- SQL for Data Analytics & Optimization  
+- Power BI (Advanced DAX & Data Modeling)  
+- Cloud Fundamentals (AWS, GCP)  
+- Large Language Models (LLMs), Prompt Engineering & RAG  
 
 ---
 
-## 🎯 Hobbies & Interests
+## 🏆 Highlights & Achievements
 
-**Technical-Focused**
-- Working with real-world datasets  
-- Reading tech blogs  
-- Exploring cybersecurity trends  
+- **Smart India Hackathon (SIH)**  
+  - Team shortlisted at internal level  
+  - Among ~120 teams, **one of the 4 selected teams** from the college  
+  - Reached the **waitlist stage**, gaining strong teamwork and problem-solving experience  
+
+- Actively participated in **data hackathons and analytics challenges**
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/NishantRajora  
-- LinkedIn: https://linkedin.com/in/nishant-rajora  
-- Email: nishantrajora100@gmail.com  
+<p align="left">
+<a href="https://linkedin.com/in/nishant-rajora" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+<a href="https://instagram.com/nishant_rajora_" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+</a>
+<a href="https://www.codechef.com/users/nishant_rajora" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/>
+</a>
+<a href="https://www.hackerrank.com/nishantrajora100" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
+</a>
+<a href="https://www.leetcode.com/nishant_rajora" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+</a>
+</p>
 
 ---
 
-⭐ *Always eager to learn, build, and grow through real-world data and technology.*
+⭐ *Focused on learning, building, and growing through data and technology.*
