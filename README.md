@@ -99,6 +99,4 @@ I am actively seeking opportunities in **Data Analytics, Data Science, and Busin
 </a>
 </p>
 
----
 
-⭐ *Feel free to explore my repositories and connect with me!*
