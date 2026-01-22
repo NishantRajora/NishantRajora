@@ -8,6 +8,8 @@ The NorthCap University | Gurugram, India
 
 ---
 
+
+
 ## 🚀 About Me
 
 I am a **third-year B.Tech student specializing in Data Science** with a strong interest in **data analytics, visualization, and machine learning**. I enjoy transforming raw data into meaningful insights using analytical tools and building data-driven solutions for real-world problems.
