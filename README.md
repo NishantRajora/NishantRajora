@@ -26,7 +26,7 @@ I am actively seeking opportunities in **Data Analytics, Data Science, and Busin
 - Machine Learning (Beginner–Intermediate)
 - Statistical Analysis & Interpretation
 - Algorithmic & Logical Problem Solving
-- Database Management Systems
+- Database Management Systems  
 - Fundamentals of Cloud & AI Concepts
 
 ---
