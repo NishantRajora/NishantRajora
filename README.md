@@ -6,7 +6,7 @@
 💡 Passionate about Data, Analytics & Machine Learning
 </p>
 
----
+----
 
 ## 🚀 About Me
 
