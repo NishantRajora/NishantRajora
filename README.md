@@ -6,9 +6,9 @@
 💡 Passionate about Data, Analytics & Machine Learning
 </p>
 
----
+-----
 
-## 🚀 About Me
+## 🚀 About Me  
 
 I am a **Data Science undergraduate** with a strong interest in **data analytics, visualization, and machine learning**.  
 I enjoy **working with data, exploring patterns, and turning raw information into meaningful insights** that support real-world decision-making.
