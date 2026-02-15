@@ -108,3 +108,6 @@ I am actively seeking opportunities in **Data Analytics, Data Science, and Busin
 ---
 
 ⭐ *Focused on learning, building, and growing through data and technology.*
+
+
+![](https://komarev.com/ghpvc/?username=your-github-NishantRajora&color=green)
