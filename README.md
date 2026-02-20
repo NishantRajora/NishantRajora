@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nishant Rajora</h1>
+<h1 align="center">Hi , I'm Nishant Rajora</h1>
 <h3 align="center">Data Science Undergraduate | Aspiring Data Analyst / Data Scientist</h3>
 
 <p align="center">
-📍 Gurugram, India <br/>
-💡 Passionate about Data, Analytics & Machine Learning
+ Gurugram, India <br/>
+ Passionate about Data, Analytics & Machine Learning
 </p>
 
 -----
