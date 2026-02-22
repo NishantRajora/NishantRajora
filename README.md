@@ -1,37 +1,38 @@
-<h1 align="center">Hi , I'm Nishant Rajora</h1>
+<h1 align="center">Hi, I'm Nishant Rajora</h1>
 <h3 align="center">Data Science Undergraduate | Aspiring Data Analyst / Data Scientist</h3>
 
 <p align="center">
- Gurugram, India <br/>
- Passionate about Data, Analytics & Machine Learning
+Gurugram, India <br/>
+Passionate about Data, Analytics, and Machine Learning
 </p>
 
------
+---
 
-## 🚀 About Me  
+## About Me  
 
-I am a **Data Science undergraduate** with a strong interest in **data analytics, visualization, and machine learning**.  
-I enjoy **working with data, exploring patterns, and turning raw information into meaningful insights** that support real-world decision-making.
+I am a Data Science undergraduate with a strong interest in data analytics, visualization, and machine learning.  
 
-I have hands-on exposure to **data analysis, BI tools, and machine learning concepts** through academic work, hackathons, and self-driven learning.
+I enjoy working with data, exploring patterns, and transforming raw information into meaningful insights that support real-world decision-making.
 
-I am actively seeking opportunities in **Data Analytics, Data Science, and Business Intelligence** roles.
+I have hands-on exposure to data analysis, business intelligence tools, and machine learning concepts through academic projects, hackathons, and self-driven learning.
+
+I am actively seeking opportunities in Data Analytics, Data Science, and Business Intelligence roles.
 
 ---
 
-## 💻 Skills & Expertise
+## Skills & Expertise
 
-- Data Analysis & Exploratory Data Analysis (EDA)
-- Data Visualization & Dashboard Development
-- Machine Learning (Beginner–Intermediate)
-- Statistical Analysis & Interpretation
-- Algorithmic & Logical Problem Solving
+- Data Analysis and Exploratory Data Analysis (EDA)  
+- Data Visualization and Dashboard Development  
+- Machine Learning (Beginner to Intermediate)  
+- Statistical Analysis and Interpretation  
+- Algorithmic and Logical Problem Solving  
 - Database Management Systems  
-- Fundamentals of Cloud & AI Concepts
+- Fundamentals of Cloud and AI Concepts  
 
 ---
 
-## 🛠️ Languages, Tools & Technologies
+## Languages, Tools & Technologies
 
 <p align="left">
 
@@ -65,27 +66,27 @@ I am actively seeking opportunities in **Data Analytics, Data Science, and Busin
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Advanced Machine Learning Techniques  
-- SQL for Data Analytics & Optimization  
-- Power BI (Advanced DAX & Data Modeling)  
-- Cloud Fundamentals (AWS, GCP)  
-- Large Language Models (LLMs), Prompt Engineering & RAG  
+- SQL for Data Analytics and Optimization  
+- Power BI (Advanced DAX and Data Modeling)  
+- Cloud Fundamentals (AWS and GCP)  
+- Large Language Models (LLMs), Prompt Engineering, and Retrieval-Augmented Generation (RAG)  
 
 ---
 
-## 🏆 Highlights & Achievements
+## Highlights & Achievements
 
-- **Smart India Hackathon (SIH)**  
-  - Team shortlisted at internal level  
-  - Reached the **waitlist stage**, gaining strong teamwork and problem-solving experience  
+- Smart India Hackathon (SIH)  
+  - Team shortlisted at the internal level  
+  - Reached the waitlist stage, gaining strong teamwork and problem-solving experience  
 
-- Actively participated in **data hackathons and analytics challenges**
+- Active participation in data hackathons and analytics challenges  
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/nishant-rajora" target="_blank">
@@ -107,8 +108,7 @@ I am actively seeking opportunities in **Data Analytics, Data Science, and Busin
 
 ---
 
-⭐ *Focused on learning, building, and growing through data and technology.*
-
+Focused on continuous learning, practical implementation, and professional growth in data and technology.
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-NishantRajora&color=green" width="400" height="100" />
