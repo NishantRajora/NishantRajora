@@ -1,64 +1,39 @@
-<h1 align="center">Hi 👋, I'm Nishant Rajora</h1>
-
-<h3 align="center">
-Data Science Undergraduate | Data Analyst | Machine Learning Enthusiast
-</h3>
+<h1 align="center">Hi , I'm Nishant Rajora</h1>
+<h3 align="center">Data Science Undergraduate | Aspiring Data Analyst / Data Scientist</h3>
 
 <p align="center">
-📍 Gurugram, Haryana, India
+ Gurugram, India <br/>
+ Passionate about Data, Analytics & Machine Learning
 </p>
 
-<p align="center">
-<a href="https://nishantrajora.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0A66C2?style=for-the-badge"/>
-</a>
-</p>
+-----
 
-<p align="center">
-<a href="https://github.com/NishantRajora">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/nishant-rajora/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/nishant_rajora">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
-</a>
-&nbsp;
-<a href="mailto:nishantrajora100@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-</p>
+## 🚀 About Me  
+
+I am a **Data Science undergraduate** with a strong interest in **data analytics, visualization, and machine learning**.  
+I enjoy **working with data, exploring patterns, and turning raw information into meaningful insights** that support real-world decision-making.
+
+I have hands-on exposure to **data analysis, BI tools, and machine learning concepts** through academic work, hackathons, and self-driven learning.
+
+I am actively seeking opportunities in **Data Analytics, Data Science, and Business Intelligence** roles.
 
 ---
 
-## 🚀 About Me
 
-I am a **Data Science undergraduate** passionate about transforming raw data into meaningful business insights using **Machine Learning, Data Analytics, and Business Intelligence**.
 
-My interests include building **end-to-end data solutions**, from data preprocessing and ETL pipelines to predictive modeling, dashboard development, and AI-powered applications.
+## Skills & Expertise
 
-I enjoy solving real-world business problems through data and continuously explore modern technologies including **LLMs, RAG, LangChain, FastAPI, and Big Data frameworks**.
-
----
-
-## 💻 Skills & Expertise
-
-- 📊 Data Analytics & Business Intelligence
-- 📈 Exploratory Data Analysis (EDA)
-- 🤖 Machine Learning & Predictive Modeling
-- 🔄 ETL Pipelines & Data Engineering
-- 📉 Statistical Analysis & Feature Engineering
-- 📋 Dashboard Development & KPI Design
-- 🗄 Database Management
-- 🧠 AI Applications with LangChain & RAG
-- ⚡ FastAPI Backend Development
+- Data Analysis & Exploratory Data Analysis (EDA)
+- Data Visualization & Dashboard Development
+- Machine Learning (Beginner–Intermediate)
+- Statistical Analysis & Interpretation
+- Algorithmic & Logical Problem Solving
+- Database Management Systems  
+- Fundamentals of Cloud & AI Concepts
 
 ---
 
-## 🛠 Languages, Tools & Technologies
+## 🛠️ Languages, Tools & Technologies
 
 ### Programming Languages
 
@@ -113,88 +88,28 @@ I enjoy solving real-world business problems through data and continuously explo
 
 ---
 
-## 🚀 Featured Projects
 
-### 🌾 Crop Yield Driver Discovery
-- Built an end-to-end ML pipeline with preprocessing, feature engineering, and model comparison.
-- Compared Linear Regression, Random Forest, Gradient Boosting, and XGBoost.
-- Achieved **R² > 0.93**.
-- Developed an interactive local web application for crop yield prediction.
+## Currently Learning
 
----
-
-### 🌍 Air Quality Index (AQI) Prediction
-- Built a time-series ML pipeline using Random Forest and XGBoost.
-- Applied lag features and temporal feature engineering.
-- Achieved **R² ≈ 0.90**.
-- Deployed an interactive Streamlit dashboard.
+- Advanced Machine Learning Techniques  
+- SQL for Data Analytics & Optimization  
+- Power BI (Advanced DAX & Data Modeling)  
+- Cloud Fundamentals (AWS, GCP)  
+- Large Language Models (LLMs), Prompt Engineering & RAG  
 
 ---
 
-### 📊 Amazon Sales Dashboard
-- Designed an interactive Tableau dashboard with KPI-driven visualizations.
-- Analyzed revenue, customer behavior, regional trends, and payment methods.
-- Identified Electronics as the highest revenue-generating category.
+## 🏆 Highlights & Achievements
+
+- **Smart India Hackathon (SIH)**  
+  - Team shortlisted at internal level  
+  - Reached the **waitlist stage**, gaining strong teamwork and problem-solving experience  
+
+- Actively participated in **data hackathons and analytics challenges**
 
 ---
 
-### ☕ Coffee & Health Analytics
-- Built classification and regression models using KNIME.
-- Achieved nearly **98% prediction accuracy**.
-- Applied Random Forest, Decision Trees, Logistic Regression, and K-Means clustering.
-- Performed EDA and behavioral segmentation.
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Machine Learning
-- FastAPI & API Development
-- Data Engineering
-- Hadoop Ecosystem
-- Business Intelligence
-- Large Language Models (LLMs)
-- LangChain
-- Retrieval-Augmented Generation (RAG)
-
----
-
-## 🏆 Achievements
-
-🥈 **Smart India Hackathon 2025**
-- National Finalist (Waitlisted for Grand Finale)
-- Developed an AI-powered Road Hazard Detection & Alert System using YOLO, IoT Sensors, and CCTV Integration.
-
-📊 Built multiple end-to-end Data Analytics, Machine Learning, and Business Intelligence projects.
-
----
-
-## 📜 Certifications
-
-- 🏅 NPTEL – The Joy of Computing Using Python (IIT Ropar)
-- 🏅 TATA Forage – Data Visualization: Empowering Business Insights
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NishantRajora&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantRajora&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=NishantRajora&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="center">
 
@@ -217,6 +132,9 @@ LeetCode
 </p>
 
 ---
+
+⭐ *Focused on learning, building, and growing through data and technology.*
+
 
 <div align="center">
 
