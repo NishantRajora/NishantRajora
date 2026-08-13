@@ -10,201 +10,54 @@
 
 I am a **Data Science undergraduate** at **The NorthCap University**, with a strong interest in **Data Analytics, Business Intelligence, Machine Learning, and Generative AI**.
 
-I enjoy working with data, discovering patterns, building analytical solutions, and transforming raw data into **meaningful insights that support real-world decision-making**.
+I enjoy working with data, discovering patterns, building analytical solutions, and transforming raw data into **meaningful insights for real-world decision-making**.
 
-I have hands-on experience with **data analysis, ETL pipelines, data visualization, machine learning, Big Data technologies, BI tools, and RAG-based AI applications** through academic work, internships, hackathons, and self-driven learning.
+I have hands-on experience with **data analysis, ETL, data visualization, machine learning, Big Data, BI tools, and RAG-based AI applications** through academic work, internships, hackathons, and self-driven learning.
 
-I am actively seeking opportunities in:
-
-* Data Analytics
-* Data Science
-* Business Intelligence
-* Machine Learning
-* Data Engineering
+I am actively seeking opportunities in **Data Analytics, Data Science, Business Intelligence, Machine Learning, and Data Engineering**.
 
 ---
 
-## 🧠 Skills & Expertise
+## 🛠️ Skills & Technologies
 
-* Data Analysis & Exploratory Data Analysis (EDA)
-* Data Cleaning & Data Preprocessing
-* ETL & Data Transformation
-* Data Validation & Feature Engineering
-* Statistical Analysis & Interpretation
-* Data Visualization & Dashboard Development
-* Business Intelligence & KPI Design
-* Machine Learning
-* Big Data Processing
-* Database Management
-* Generative AI & LLM Applications
-* Retrieval-Augmented Generation (RAG)
-* Semantic Search & Vector Databases
-* Algorithmic & Logical Problem Solving
-
----
-
-## 🛠️ Languages, Tools & Technologies
-
-### 💻 Programming Languages
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
-</p>
+### 💻 Languages
 
 **Python • Java • SQL**
 
----
+### 📊 Data Science & ML
 
-### 📊 Data Science & Machine Learning
+**Pandas • NumPy • Matplotlib • Seaborn • Scikit-Learn • XGBoost • EDA • Feature Engineering • Statistics • Machine Learning**
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
-<img src="https://matplotlib.org/_static/logo2_compressed.svg" width="45"/>
-</p>
+### 🔄 Data Engineering & Big Data
 
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-Learn
-* Exploratory Data Analysis
-* Feature Engineering
-* Statistical Analysis
-* Machine Learning
-* Model Evaluation
+**ETL • Data Cleaning • Data Transformation • Data Validation • Hadoop • HDFS • Hive • Hue**
 
----
+### 🗄️ Databases
 
-### 🔄 Data Engineering & ETL
+**MySQL • MongoDB • DBMS**
 
-* Data Extraction
-* Data Transformation
-* ETL Pipelines
-* Data Cleaning
-* Data Validation
-* Data Preprocessing
-* Feature Engineering
-* Large-Scale Data Processing
+### 📈 Business Intelligence
 
----
+**Tableau • Power BI • Excel • KPI Design • Data Visualization • Dashboard Development**
 
-### 🗄️ Databases & Big Data
+### 🤖 AI & Generative AI
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" width="45"/>
-</p>
+**LangChain • RAG • LLMs • Prompt Engineering • Embeddings • Vector Databases • Semantic Search • Ollama**
 
-* MySQL
-* MongoDB
-* Hadoop
-* HDFS
-* Hive
-* Hue
-* Database Management Systems
-* SQL
+### 🌐 Development & Tools
 
----
+**FastAPI • REST APIs • Streamlit • Docker • Git • GitHub • VS Code • Jupyter • KNIME**
 
-### 📈 Business Intelligence & Visualization
+### 📚 Core Concepts
 
-<p>
-<img src="https://img.icons8.com/color/48/tableau-software.png" width="45"/>
-<img src="https://img.icons8.com/color/48/power-bi.png" width="45"/>
-<img src="https://img.icons8.com/color/48/ms-excel.png" width="45"/>
-</p>
-
-* Tableau
-* Power BI
-* Microsoft Excel
-* KPI Design
-* Dashboard Development
-* Business Intelligence
-* Data Visualization
-* Data Storytelling
-
----
-
-### 🤖 AI, LLM & Generative AI
-
-* LangChain
-* Retrieval-Augmented Generation (RAG)
-* Large Language Models (LLMs)
-* Prompt Engineering
-* Text Embeddings
-* Vector Databases
-* Semantic Search
-* Document Retrieval
-* AI Chatbot Development
-* Ollama
-
----
-
-### 🌐 Backend & Development
-
-* FastAPI
-* REST APIs
-* HTML
-* CSS
-* Streamlit
-* Docker
-
----
-
-### 🔧 Tools & Platforms
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45"/>
-</p>
-
-* Git
-* GitHub
-* VS Code
-* Jupyter Notebook
-* KNIME
-* Docker
-
----
-
-## 📚 Core Concepts
-
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* DBMS
-* Statistics
-* Machine Learning
-* Data Mining
-* Data Engineering
-* Big Data
-* Business Intelligence
-* Exploratory Data Analysis
-* Feature Engineering
-* Generative AI
-* RAG Systems
+**DSA • OOP • Statistics • DBMS • Data Mining • Data Engineering • Big Data • Business Intelligence**
 
 ---
 
 
 ## 📖 Currently Learning
 
-* Advanced Machine Learning Techniques
-* SQL for Data Analytics & Optimization
-* Advanced Power BI
-* DAX & Data Modeling
-* Data Engineering
-* Cloud Fundamentals
-* Large Language Models (LLMs)
-* Advanced RAG Systems
-* Prompt Engineering
-* Vector Databases & Semantic Search
+**Advanced ML • SQL Optimization • Power BI & DAX • Data Engineering • Cloud • LLMs • Advanced RAG**
 
 ---
 
