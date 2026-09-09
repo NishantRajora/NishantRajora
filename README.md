@@ -96,13 +96,16 @@ I am actively seeking opportunities in **Data Analytics, Data Science, Business 
 
 <img src="https://komarev.com/ghpvc/?username=NishantRajora&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
+
+<p align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishantRajora&theme=tokyonight" />
+</p>
+
+
 <br/><br/>
 
 **Focused on Learning • Building • Analyzing • Innovating**
 
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NishantRajora&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishantRajora&theme=tokyonight" />
-</p>
