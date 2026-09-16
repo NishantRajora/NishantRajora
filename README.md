@@ -94,21 +94,10 @@ I'm a **Data Science undergraduate** passionate about **Data Analytics, Business
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NishantRajora&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantRajora&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishantRajora&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NishantRajora&theme=tokyo-night&hide_border=true" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NishantRajora&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
 </p>
 
 ---
