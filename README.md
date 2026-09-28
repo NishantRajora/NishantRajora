@@ -11,6 +11,7 @@
 <p align="center">
   <a href="https://nishantrajora.github.io/Nishant-Rajora-PortFolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/nishant-rajora/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nishantrajora100@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/NishantRajora" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://leetcode.com/u/nishant_rajora" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
@@ -38,22 +39,30 @@ I'm a **Data Science undergraduate** passionate about **Data Analytics, Business
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-**Data Science & ML**
+**Data Science & Machine Learning**
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/XGBoost-006400?style=flat-square" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-006400?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+**Computer Vision & Deep Learning**
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLOv8-00599C?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 **Data Engineering & Big Data**
 <p>
 <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" />
-<img src="https://img.shields.io/badge/HDFS-66CCFF?style=flat-square" />
+<img src="https://img.shields.io/badge/HDFS-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" />
 <img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" />
-<img src="https://img.shields.io/badge/ETL-4B8BBE?style=flat-square" />
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/ETL-4B8BBE?style=flat-square&logo=databricks&logoColor=white" />
 </p>
 
 **Databases**
@@ -72,10 +81,13 @@ I'm a **Data Science undergraduate** passionate about **Data Analytics, Business
 **AI & Generative AI**
 <p>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/LLMs-black?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/Vector%20DBs-4B0082?style=flat-square" />
+<img src="https://img.shields.io/badge/ChromaDB-FC521F?style=flat-square" />
+<img src="https://img.shields.io/badge/FAISS-00599C?style=flat-square&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
 </p>
 
 **Dev Tools & Platforms**
@@ -94,10 +106,12 @@ I'm a **Data Science undergraduate** passionate about **Data Analytics, Business
 
 ### 📊 GitHub Stats
 
-
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishantRajora&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NishantRajora&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nishant's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantRajora&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishantRajora&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -105,9 +119,10 @@ I'm a **Data Science undergraduate** passionate about **Data Analytics, Business
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://nishantrajora.netlify.app/" target="_blank">🌐 Portfolio</a> &nbsp;•&nbsp;
-  <a href="https://github.com/NishantRajora" target="_blank">💻 GitHub</a> &nbsp;•&nbsp;
+  <a href="https://nishantrajora.github.io/Nishant-Rajora-PortFolio/" target="_blank">🌐 Portfolio</a> &nbsp;•&nbsp;
+  <a href="mailto:nishantrajora100@gmail.com" target="_blank">📫 Email</a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/nishant-rajora/" target="_blank">💼 LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://github.com/NishantRajora" target="_blank">💻 GitHub</a> &nbsp;•&nbsp;
   <a href="https://leetcode.com/u/nishant_rajora" target="_blank">🧩 LeetCode</a>
 </p>
 
